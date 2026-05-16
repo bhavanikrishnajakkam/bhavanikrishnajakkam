@@ -47,5 +47,5 @@ I am a student at the **National Institute of Technology, Raipur**, specializing
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/bhavanikrishnajakkam/]
-- **Email:** [bhavanikrishnajee@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/bhavanikrishnajakkam/
+- **Email:** bhavanikrishnajee@gmail.com
