@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm [Bhavani Krishna Jakkam] 👋
+# Hi, I'm Bhavani Krishna Jakkam 👋
 
 I am a student at the **National Institute of Technology, Raipur**, specializing in backend architecture, and competitive programming.
 
@@ -24,7 +24,7 @@ I am a student at the **National Institute of Technology, Raipur**, specializing
 ## 🛠️ Skills & Technologies
 
 - **Languages:** C++, Java, SQL
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Boot,Hibernate(ORM)
 - **Databases:** PostgreSQL
 - **Core Concepts:** Multithreading, Concurrency Control
 
